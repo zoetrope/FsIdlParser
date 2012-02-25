@@ -1,0 +1,15 @@
+
+/work
+bin
+obj
+/TestResults
+/vendor
+/reference
+*.suo
+/_ReSharper.FsIdlParser
+*.user
+Thumbs.db
+Doc/build
+/Release
+RoslynSample
+FsRoslyn
